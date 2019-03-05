@@ -1,4 +1,4 @@
-# Meeting-Schedular
+# Meeting-Scheduler
 
 # Overview
 * An application to schedule the office meetings easily.
